@@ -8,4 +8,4 @@ The data consists of four tab-separated files:
 
 * `titles.tsv`.  Titles for each bill, listed by bill ID.  Includes title type ("short","official", or "popular")
 * `legislators.tsv`.  Basic information about bill sponsors: name, sortable name, party, GovTrack URL.
-* `word_map.tsv`.  A utility table to deal with the fact that a small number of bills have multiple acronym words.  Some of them are phrases, like "SAFE DOSES"; others have multiple independent acronym titles, like the PACT Act that is also the PRECAUTION Act; a few have a phrase with a non-acronym word in the middle, like "HIRE at HOME".
+* `wordmap.tsv`.  A utility table to deal with the fact that a small number of bills have multiple acronym words.  Some of them are phrases, like "SAFE DOSES"; others have multiple independent acronym titles, like the PACT Act that is also the PRECAUTION Act; a few have a phrase with a non-acronym word in the middle, like "HIRE at HOME".
